@@ -1,0 +1,25 @@
+company_name,country,event_count,risk_level,risk_score,top_categories
+Cobalt Financial Group,Germany,10,HIGH,82.28,fraud_reputation; financial; leadership
+Obsidian Mining,Germany,8,HIGH,81.28,legal_regulatory; cybersecurity; financial
+Helios Semiconductors,Singapore,6,HIGH,78.92,leadership; supply_chain; cybersecurity
+Ironvale Steelworks,United States,1,MEDIUM,60.8,supply_chain
+Meridian Health Systems,United Kingdom,9,MEDIUM,56.61,legal_regulatory; leadership; supply_chain
+Sable Pharmaceuticals,Singapore,5,MEDIUM,55.45,financial; leadership; supply_chain
+Peregrine Capital,Singapore,9,MEDIUM,51.08,financial; cybersecurity; leadership
+Cedarwood Foods,India,5,MEDIUM,49.15,cybersecurity; supply_chain; fraud_reputation
+Zephyr Chemicals,United Arab Emirates,7,MEDIUM,46.7,leadership; legal_regulatory; cybersecurity
+Verdant Agro Industries,United States,4,MEDIUM,44.64,cybersecurity; supply_chain; fraud_reputation
+Orchid Textiles,India,4,MEDIUM,41.1,leadership; cybersecurity; supply_chain
+Quantum Payments,United Arab Emirates,8,MEDIUM,40.16,leadership; financial; cybersecurity
+Aurora Energy Partners,Germany,6,LOW,35.41,leadership; fraud_reputation; cybersecurity
+Vantage Auto Motors,United Arab Emirates,6,LOW,27.59,legal_regulatory; leadership; financial
+Lumen Retail Group,United Arab Emirates,6,LOW,26.74,supply_chain; leadership; financial
+Bluepeak Media Networks,Japan,3,LOW,23.08,cybersecurity; fraud_reputation
+Nimbus Cloud Services,United Arab Emirates,2,LOW,23.06,cybersecurity; supply_chain
+Silverline Telecom,United States,3,LOW,20.12,leadership; financial
+Riverstone Hospitality,Singapore,5,LOW,18.37,supply_chain; financial; fraud_reputation
+Granite Construction,United States,4,LOW,17.98,supply_chain; leadership; fraud_reputation
+Halcyon Insurance,United States,8,LOW,16.77,legal_regulatory; cybersecurity; financial
+Trident Marine Services,United States,6,LOW,14.43,cybersecurity; supply_chain; fraud_reputation
+Northstar Logistics,Australia,3,LOW,14.2,supply_chain; cybersecurity; fraud_reputation
+Kestrel Airlines,Singapore,4,LOW,12.82,cybersecurity; leadership

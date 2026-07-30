@@ -1,0 +1,24 @@
+{"company_name":"Cobalt Financial Group","country":"Germany","event_count":10,"risk_level":"HIGH","risk_score":82.28,"top_categories":["fraud_reputation","financial","leadership"]}
+{"company_name":"Obsidian Mining","country":"Germany","event_count":8,"risk_level":"HIGH","risk_score":81.28,"top_categories":["legal_regulatory","cybersecurity","financial"]}
+{"company_name":"Helios Semiconductors","country":"Singapore","event_count":6,"risk_level":"HIGH","risk_score":78.92,"top_categories":["leadership","supply_chain","cybersecurity"]}
+{"company_name":"Ironvale Steelworks","country":"United States","event_count":1,"risk_level":"MEDIUM","risk_score":60.8,"top_categories":["supply_chain"]}
+{"company_name":"Meridian Health Systems","country":"United Kingdom","event_count":9,"risk_level":"MEDIUM","risk_score":56.61,"top_categories":["legal_regulatory","leadership","supply_chain"]}
+{"company_name":"Sable Pharmaceuticals","country":"Singapore","event_count":5,"risk_level":"MEDIUM","risk_score":55.45,"top_categories":["financial","leadership","supply_chain"]}
+{"company_name":"Peregrine Capital","country":"Singapore","event_count":9,"risk_level":"MEDIUM","risk_score":51.08,"top_categories":["financial","cybersecurity","leadership"]}
+{"company_name":"Cedarwood Foods","country":"India","event_count":5,"risk_level":"MEDIUM","risk_score":49.15,"top_categories":["cybersecurity","supply_chain","fraud_reputation"]}
+{"company_name":"Zephyr Chemicals","country":"United Arab Emirates","event_count":7,"risk_level":"MEDIUM","risk_score":46.7,"top_categories":["leadership","legal_regulatory","cybersecurity"]}
+{"company_name":"Verdant Agro Industries","country":"United States","event_count":4,"risk_level":"MEDIUM","risk_score":44.64,"top_categories":["cybersecurity","supply_chain","fraud_reputation"]}
+{"company_name":"Orchid Textiles","country":"India","event_count":4,"risk_level":"MEDIUM","risk_score":41.1,"top_categories":["leadership","cybersecurity","supply_chain"]}
+{"company_name":"Quantum Payments","country":"United Arab Emirates","event_count":8,"risk_level":"MEDIUM","risk_score":40.16,"top_categories":["leadership","financial","cybersecurity"]}
+{"company_name":"Aurora Energy Partners","country":"Germany","event_count":6,"risk_level":"LOW","risk_score":35.41,"top_categories":["leadership","fraud_reputation","cybersecurity"]}
+{"company_name":"Vantage Auto Motors","country":"United Arab Emirates","event_count":6,"risk_level":"LOW","risk_score":27.59,"top_categories":["legal_regulatory","leadership","financial"]}
+{"company_name":"Lumen Retail Group","country":"United Arab Emirates","event_count":6,"risk_level":"LOW","risk_score":26.74,"top_categories":["supply_chain","leadership","financial"]}
+{"company_name":"Bluepeak Media Networks","country":"Japan","event_count":3,"risk_level":"LOW","risk_score":23.08,"top_categories":["cybersecurity","fraud_reputation"]}
+{"company_name":"Nimbus Cloud Services","country":"United Arab Emirates","event_count":2,"risk_level":"LOW","risk_score":23.06,"top_categories":["cybersecurity","supply_chain"]}
+{"company_name":"Silverline Telecom","country":"United States","event_count":3,"risk_level":"LOW","risk_score":20.12,"top_categories":["leadership","financial"]}
+{"company_name":"Riverstone Hospitality","country":"Singapore","event_count":5,"risk_level":"LOW","risk_score":18.37,"top_categories":["supply_chain","financial","fraud_reputation"]}
+{"company_name":"Granite Construction","country":"United States","event_count":4,"risk_level":"LOW","risk_score":17.98,"top_categories":["supply_chain","leadership","fraud_reputation"]}
+{"company_name":"Halcyon Insurance","country":"United States","event_count":8,"risk_level":"LOW","risk_score":16.77,"top_categories":["legal_regulatory","cybersecurity","financial"]}
+{"company_name":"Trident Marine Services","country":"United States","event_count":6,"risk_level":"LOW","risk_score":14.43,"top_categories":["cybersecurity","supply_chain","fraud_reputation"]}
+{"company_name":"Northstar Logistics","country":"Australia","event_count":3,"risk_level":"LOW","risk_score":14.2,"top_categories":["supply_chain","cybersecurity","fraud_reputation"]}
+{"company_name":"Kestrel Airlines","country":"Singapore","event_count":4,"risk_level":"LOW","risk_score":12.82,"top_categories":["cybersecurity","leadership"]}

@@ -1,0 +1,17 @@
+{
+  "ingest_summary": {
+    "status": "completed",
+    "received_records": 150,
+    "valid_records": 132,
+    "rejected_records": 8,
+    "duplicate_records": 10,
+    "companies_processed": 24
+  },
+  "stats": {
+    "mean": 39.11,
+    "median": 37.78,
+    "std_dev": 21.49,
+    "p90": 73.48,
+    "count": 24
+  }
+}

@@ -1,0 +1,61 @@
+event_id,company_name,category,severity,confidence,published_at,country,source,description
+,Quantum Payments,CYBER_SECURITY,3,0.82,2026-07-23T04:55:00Z,uae,Public Business Monitor,A denial-of-service attack disrupted the payments reconciliation service for several hours.
+EVT-1098,Trident Marine Services,Cyber Security,1,0.35,2026-07-05T22:48:00Z,United States,Regional Trade Wire,Customer records were exposed following a misconfiguration in a partner integration gateway.
+EVT-1123, Bluepeak Media Networks,cybersecurity,3,0.61,"June 15, 2026",Japan,Global Risk Feed,A denial-of-service attack disrupted the payments reconciliation service for several hours.
+EVT-1008,Cobalt Financial Group,fraud_reputation,4,0.83,"July 19, 2026",Germany,Market Signals Digest,Media reporting raised questions about procurement practices.
+EVT-1142,kestrel airlines,cyber-security,2,0.58,"June 08, 2026",Japan,Global Risk Feed,A ransomware incident affecting the employee records system was disclosed by the company.
+EVT-1127,Northstar Logistics,cybersecurity,2,0.49,2026/07/05 05:48,United Kingdom,Regional Trade Wire,A ransomware incident affecting a third-party analytics vendor was disclosed by the company.
+EVT-1072,Vantage Auto Motors,financial,5,0.69,29-06-2026,,,The company deferred a scheduled debt repayment of roughly 12 percent of annual revenue.
+EVT-1092,Halcyon Insurance,FINANCIAL_DISTRESS,3,0.33,2026-06-08T08:48:00Z,United States,Public Business Monitor,A planned fundraise of an undisclosed amount was withdrawn before pricing.
+EVT-1012,Obsidian  Mining,financial,5,0.91,21-07-2026,United Arab Emirates,Global Risk Feed,A credit rating agency revised the outlook to negative.
+EVT-1082,Orchid  Textiles,supply_chain,2,0.83,2026-07-21T03:30:00Z,India,Market Signals Digest,Operations were disrupted following a transport strike in the western corridor.
+EVT-1105,Lumen Retail Group,financial,4,0.61,2026-07-19T18:48:00Z, Singapore,Industry Watch Daily,A credit rating agency revised the outlook to negative.
+EVT-1120,Granite  Construction,Leadership,4,0.56,2026-06-01 23:30:00,United States,Industry Watch Daily,The chief technology officer was placed on administrative leave.
+EVT-1088,Verdant Agro Industries,supply_chain,5,0.69,2026-06-01T07:55:00Z,United States,Industry Watch Daily,A key supplier in the eastern hub halted deliveries without notice.
+EVT-1108,Lumen Retail Group,supply_chain,1,0.62,2026/05/17 09:48,uae,Public Business Monitor,A key supplier in the western corridor halted deliveries without notice.
+EVT-1026,Sable Pharmaceuticals,financial,5,0.85,2026-07-20T07:48:00Z,Singapore,,Quarterly results showed a shortfall of a figure described as material against guidance.
+EVT-1004,Cobalt Financial Group,financial distress,4,0.99,21-07-2026,Germany,Industry Watch Daily,A credit rating agency revised the outlook to negative.
+EVT-1032,Meridian Health Systems,legal_regulatory,5,0.87,2026-06-27T23:15:00Z,United Kingdom,Open Corporate Records,An environmental clearance for a facility was placed under review.
+EVT-1101,Trident Marine Services,supply_chain,1,0.13,12 Jul 2026,United States,National Filings Registry,A logistics contract covering the coastal region was terminated early.
+EVT-1149,Silverline Telecom,leadership,1,-0.2,09-07-2026,Germany,Public Business Monitor,The board announced an unplanned transition for the chief compliance officer position.
+EVT-1104,Lumen Retail Group,fraud_reputation,2,0.34,2026-07-20T14:45:00Z,United Arab Emirates,Industry Watch Daily,Whistleblower allegations of expense irregularities were made public.
+EVT-1089,Halcyon Insurance,cybersecurity,1,0.64,2026-07-05T11:55:00Z,Germany,National Filings Registry,A denial-of-service attack disrupted the payments reconciliation service for several hours.
+EVT-1031,Meridian Health Systems,legal_regulatory,4,0.92,2026-07-10T03:55:00Z,United  Kingdom,Regional Trade Wire,A penalty was imposed following an inspection of compliance records.
+EVT-1119,Granite Construction,supply_chain,2,0.43,2026-02-18T14:15:00Z,United States,Regional Trade Wire,A key supplier in the northern belt halted deliveries without notice.
+EVT-1053,Quantum Payments,leadership,4,0.74,2026/07/10 05:55,United Arab Emirates,Global Risk Feed,A search was launched to replace the departing chief technology officer.
+EVT-1130,Silverline Telecom,leadership,1,0.68,2026-03-25T13:45:00Z,usa,Public Business Monitor,The regional president was placed on administrative leave.
+EVT-1024,Helios Semiconductors,Supply Chain,4,0.85,2026-07-20T11:48:00Z, Singapore,Market Signals Digest,Operations were disrupted following a transport strike in the metropolitan zone.
+EVT-1129,Silverline Telecom,Financial,3,0.5,12-07-2026,United States,Industry Watch Daily,Quarterly results showed a shortfall of a mid-eight-figure sum against guidance.
+,Aurora  Energy  Partners,leadership,3,0.63,2026/07/10 16:48,Germany,Regional Trade Wire,The chief technology officer was placed on administrative leave.
+EVT-1075,Vantage Auto Motors,fraud_reputation,2,0.68,2026-06-01T12:00:00Z,Australia,National Filings Registry,Invoice discrepancies were discovered in a subsidiary ledger.
+EVT-1017,Obsidian Mining,legal_regulatory,5,0.89,2026-07-02T03:55:00Z,GERMANY,Industry Watch Daily,A regulator opened a formal inquiry into disclosure practices at the company.
+EVT-1028,Sable Pharmaceuticals,LEADERSHIP_CHANGE,4,0.92,2026/07/20 19:48,Singapore,Industry Watch Daily,The head of operations resigned with immediate effect.
+EVT-1001,Cobalt Financial Group,FRAUD,5,0.83,23 Jul 2026,Japan,Market Signals Digest,An internal review identified irregular vendor payments of an undisclosed amount.
+EVT-1117,Kestrel Airlines,cybersecurity,1,0.07,05 Jul 2026,Singapore,Public Business Monitor,A denial-of-service attack disrupted the payments reconciliation service for several hours.
+EVT-1050,Quantum Payments,financial,3,0.73,2026/07/19 06:55,United Arab Emirates,,Working capital pressure was cited alongside a writedown of close to 8 million dollars.
+EVT-1011,Obsidian Mining,fraud_reputation,5,0.88,08 Jul 2026,Germany,National Filings Registry,A former employee alleged falsification of performance records.
+EVT-1111,Riverstone Hospitality,leadership,3,0.31,"February 18, 2026",Singapore,Industry Watch Daily,The head of operations resigned with immediate effect.
+EVT-1140,Peregrine Capital Ltd.,REGULATORY,1,0.83,2026/06/28 10:48,USA,Industry Watch Daily, A penalty was imposed following an inspection of compliance records.
+EVT-1056,Quantum Payments,cybersecurity,2,0.71,2026-07-21T09:48:00Z,United Arab Emirates,Open Corporate Records,A denial-of-service attack disrupted an internal billing platform for several hours.
+EVT-1034,Meridian Health Systems,cybersecurity,1,0.89,2026-07-10T05:45:00Z,Australia,Global Risk Feed,The company confirmed a data breach originating from a third-party analytics vendor.
+EVT-1014,Obsidian Mining,legal-regulatory,3,0.85,30 Apr 2026,Singapore,Global Risk Feed,An environmental clearance for a facility was placed under review.
+EVT-1041,Peregrine Capital,LEADERSHIP_CHANGE,5,0.75,2026/07/05 17:15,Germany,Global Risk Feed,The chief technology officer resigned with immediate effect.
+EVT-1084,Orchid Textiles,LEADERSHIP_CHANGE,5,0.86,"June 29, 2026",India,Regional Trade Wire,The chief compliance officer resigned with immediate effect.
+EVT-1080,Cedarwood Foods,legal_regulatory,2,0.75,2026-06-29 15:15:00,India,Global Risk Feed,An environmental clearance for a facility was placed under review.
+EVT-1059,Zephyr Chemicals,fraud_reputation,3,0.89,2026-06-15T10:55:00Z,Germany,Industry Watch Daily,A former employee alleged falsification of performance records.
+EVT-1100,Trident Marine Services,fraud_reputation,3,0.38,2026-04-18T16:45:00Z,United States,Public Business Monitor,An internal review identified irregular vendor payments of an undisclosed amount.
+EVT-1006,Cobalt Financial Group,financial,4,0.97,2026-05-17T12:45:00Z,GERMANY,Open Corporate Records,Quarterly results showed a shortfall of an undisclosed amount against guidance.
+EVT-1115,Kestrel Airlines,cybersecurity,2,0.58,2026/06/08 11:55,Japan,Open Corporate Records,A ransomware incident affecting the employee records system was disclosed by the company.
+EVT-1019,Helios Semiconductors,legal_regulatory,5,0.92,2026/07/23 06:45,Germany,Global Risk Feed,The company disclosed an ongoing tax assessment dispute.
+EVT-1113,Riverstone Hospitality,supply_chain,2,0.65,2026-03-25T21:45:00Z,Singapore,Public Business Monitor,A logistics contract covering the eastern hub was terminated early.
+EVT-1109,Riverstone Hospitality,fraud_reputation,3,0.63,"March 25, 2026",Singapore,Global Risk Feed,An internal review identified irregular vendor payments of close to 8 million dollars.
+EVT-1141,COBALT FINANCIAL GROUP,reputation,3,0.93,25 Mar 2026,Germany,National Filings Registry,allegations of misleading marketing claims drew public criticism.
+EVT-1035,Meridian Health Systems,supply chain,3,0.64,2026/07/19 20:15,uk,Market Signals Digest,Flooding in the coastal region damaged warehousing capacity.
+EVT-1065,Aurora Energy Partners,fraud_reputation,3,0.74,2026/07/10 10:55,Germany,Regional Trade Wire,Allegations of misleading marketing claims drew public criticism.
+EVT-1030,Ironvale Steelworks,supply_chain,4,0.95,2026-07-10T17:30:00Z,United States,Market Signals Digest,Flooding in the border region damaged warehousing capacity.
+EVT-1051,Quantum Payments,leadership,2,0.76,27 Jun 2026,United Arab Emirates,Open Corporate Records,The chief technology officer stepped down pending an internal review.
+EVT-1044,Peregrine Capital,legal_regulatory,4,0.11,2026-07-10T22:55:00Z,Singapore,Industry Watch Daily,The company received a show-cause notice from a sectoral authority.
+EVT-1148,Peregrine Capital,fraud_reputation,5,1.4,2026-06-13T04:45:00Z,India,Regional Trade Wire,Whistleblower allegations of expense irregularities were made public.
+EVT-1150,Cedarwood Foods,financial,4,0.7,not-a-date,United States,Public Business Monitor,A credit rating agency revised the outlook to negative.
+,Zephyr Chemicals,supply_chain,2,0.85,12-07-2026,United Arab Emirates,Market Signals Digest,Flooding in the coastal region damaged warehousing capacity.
+EVT-1057,Zephyr Chemicals,legal_regulatory,4,0.75,2026-07-18T22:15:00Z,United Arab Emirates,Market Signals Digest,The company received a show-cause notice from a sectoral authority.
