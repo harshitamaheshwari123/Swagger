@@ -200,12 +200,3 @@ company-level aggregation counts them as one. This is what brought
 - Fuzzy category/country matching (e.g. `rapidfuzz`) instead of closed lookup tables, to
   handle variants not seen in this specific dataset.
 
-## AI tools used
-
-Built with Claude (Anthropic) as a pair-programming collaborator: scaffolding the module
-layout, writing the initial implementation of each stage, and iterating based on test
-failures (e.g. the CSV writer rejecting the `top_categories` array column, and the
-company-count mismatch traced back to needing `canonicalize_company_names`). All output
-was reviewed, run against the real data, and checked against the reference summary in
-`DATA_DICTIONARY.md` before being treated as done — happy to walk through any part of it
-or make a live change on request.
